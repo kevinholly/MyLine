@@ -1,14 +1,10 @@
 # My Line Test
 
 ## Overview
-This is a demo for introducing the unit testing framework in MATLAB. The content includes:    
-
-* Introduction to function-based tests (including basic function-based smoke tests)
-* Introduction to class-based tests (w/ test parameters)
-* Generating reports using test runners and test suites
-
-## Contact
-Sudheer Nuggehalli - <snuggeha@mathworks.com>
+The content includes:    
+* function-based tests (including basic function-based smoke tests)
+* class-based tests (w/ test parameters)
+* Generates reports using test runners and test suites
 
 ## Relevant Industries
 All
