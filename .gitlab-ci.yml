@@ -1,0 +1,7 @@
+test:
+    tags:
+        - on-prem
+    variables:
+        GIT_SUBMODULE_STRATEGY: recursive
+    script:
+        - mw -using $CURRENT_MATLAB_RELEASE matlab -batch "openProject(pwd); assertSuccess(runtests);"
