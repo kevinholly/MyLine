@@ -1,6 +1,6 @@
 # My Line Test
 
-[![MATLAB](https://github.com/kevinholly/MyLine/actions/workflows/ci.yml/badge.svg)](https://github.com/kevinholly/MyLine/actions/workflows/ci.yml)
+[![MATLAB](https://github.com/kevinholly/MyLine/actions/workflows/matlabci.yml/badge.svg)](https://github.com/kevinholly/MyLine/actions/workflows/matlabci.yml)
 
 ## Overview
 The content includes:    
